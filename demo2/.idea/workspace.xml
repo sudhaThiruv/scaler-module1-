@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5191a820-6afa-40fa-be91-e1b38ec826b4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../mcproductservice/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mcproductservice/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mcproductservice/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mcproductservice/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mcproductservice/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mcproductservice/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mcproductservice/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mcproductservice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mcproductservice/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mcproductservice/src/main/java/dev/naman/mcproductservice/McproductserviceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mcproductservice/src/main/java/dev/naman/mcproductservice/Models/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mcproductservice/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mcproductservice/src/test/java/dev/naman/mcproductservice/McuserserviceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Count-Factors/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Count-Factors/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Count-Factors/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Count-Factors/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Count-Factors/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Count-Factors/Count-Factors.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Count-Factors/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Count-Prime/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Count-Prime/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Count-Prime/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Count-Prime/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Count-Prime/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Count-Prime/Count-Prime.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Count-Prime/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Count_Elements/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Count_Elements/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Count_Elements/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Count_Elements/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Count_Elements/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Count_Elements/Count_Elements.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Count_Elements/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Good_Pair/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Good_Pair/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Good_Pair/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Good_Pair/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Good_Pair/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Good_Pair/Good Pair.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Good_Pair/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IsPrime/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IsPrime/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IsPrime/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IsPrime/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IsPrime/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IsPrime/IsPrime.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IsPrime/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Perfect Numbers/Perfect Numbers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Perfect_Number/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Perfect_Number/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Perfect_Number/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Perfect_Number/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Perfect_Number/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Perfect_Number/Perfect_Number.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Perfect_Number/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reverse_Range/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reverse_Range/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reverse_Range/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reverse_Range/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reverse_Range/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reverse_Range/Reverse_Range.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reverse_Range/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2tGjZ1q5NOUxzO2USnJXDw6GMdO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5191a820-6afa-40fa-be91-e1b38ec826b4" name="Changes" comment="" />
+      <created>1739985358489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739985358489</updated>
+    </task>
+    <servers />
+  </component>
+</project>
